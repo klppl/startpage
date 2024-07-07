@@ -1,0 +1,31 @@
+category favs:
+name: "cal"
+url: https://calendar.google.com/
+name: "micro.blog"
+url: https://micro.blog/
+name: "reddit"
+url: https://reddit.geek.nu/
+
+category news:
+name: "brutalist.report"
+url: https://brutalist.report/
+name: "bubb.la"
+url: https://bubb.la/
+name: "feber"
+url: https://feber.se/
+name: "alltoplinks"
+url: https://alltoplinks.com/
+name: "swedroid"
+url: https://swedroid.se/
+
+category other:
+name: "youtube"
+url: https://www.youtube.com/feed/subscriptions
+name: "warriors2"
+url: https://warriors2.com/
+name: "chatgpt"
+url: https://chatgpt.com/?model=gpt-4o
+name: "bookmarks"
+url: https://bookmarks.geek.nu/
+name: "/r/listentothis"
+url: https://www.reddit.com/r/listentothis/

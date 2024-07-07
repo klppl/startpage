@@ -17,3 +17,7 @@ A minimalistic and professional startpage designed for personal use. It includes
 ## Usage
 
 Open `index.php` in your browser to view the startpage.
+
+## Screenshot
+
+![Screenshot](screenshot.png)

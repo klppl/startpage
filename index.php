@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minimalistic Startpage</title>
+    <title>i untitled this page by purpose.</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
     <style>
         body {
@@ -25,12 +25,12 @@
             align-items: flex-start;
             width: 90%;
             max-width: 1200px;
-            gap: 10px; /* Reduce the gap between categories */
+            gap: 10px;
         }
         .category {
             margin: 0;
             padding: 0 10px;
-            flex: 1 1 200px; /* Ensure categories take up only as much space as needed */
+            flex: 1 1 200px;
         }
         .category h2 {
             font-weight: 700;
@@ -97,8 +97,7 @@
         echo "</div>";
     }
     fclose($file);
-
-    // Get the user's IP address
+    
     $user_ip = $_SERVER['REMOTE_ADDR'];
     ?>
     </div>

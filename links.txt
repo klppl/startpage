@@ -5,6 +5,8 @@ name: "micro.blog"
 url: https://micro.blog/
 name: "reddit"
 url: https://reddit.geek.nu/
+name: "readeck"
+url: https://readeck.geek.nu
 
 category news:
 name: "brutalist.report"

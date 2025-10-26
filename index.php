@@ -60,7 +60,7 @@ require_once 'data.php';
             </section>
 
             <header id="modal-footer">
-                <a href="https://github.com/jeroenpardon/"><span class="iconify" data-icon="mdi-github-box"></span></a>
+                <a href="admin.php"><span class="iconify" data-icon="mdi-shield-crown"></span></a>
                 <a href="https://materialdesignicons.com/"><span class="iconify" data-icon="mdi-material-design"></a></span>
             </header>
         </div>

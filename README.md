@@ -45,6 +45,14 @@ Edit the JSON files to customize:
 - **links.json**: Modify your bookmarks
 - **providers.json**: Change search providers
 
+### Changing Admin Password
+
+To change the admin password, edit `admin.php` and modify the password constant:
+
+```php
+define('ADMIN_PASSWORD', 'your-new-password');
+```
+
 ## Requirements
 
 - PHP 7.0 or higher

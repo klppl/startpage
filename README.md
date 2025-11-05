@@ -2,6 +2,8 @@
 
 A clean, customizable browser startpage with theme support, application shortcuts, and bookmarks.
 
+![Screenshot](screenshot.png)
+
 ## Features
 
 - Dynamic date and greeting display

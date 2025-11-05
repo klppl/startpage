@@ -40,10 +40,13 @@ A clean, customizable browser startpage with theme support, application shortcut
 
 ## Configuration
 
-Edit the JSON files to customize:
+You can customize the startpage by editing the JSON files directly or through the admin interface:
+
 - **apps.json**: Add/modify application shortcuts
 - **links.json**: Modify your bookmarks
 - **providers.json**: Change search providers
+
+Access the admin interface at `admin.php` to edit these files through a web interface.
 
 ### Changing Admin Password
 

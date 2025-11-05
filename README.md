@@ -1,4 +1,4 @@
-# SUI Startpage
+# Startpage
 
 A clean, customizable browser startpage with theme support, application shortcuts, and bookmarks.
 

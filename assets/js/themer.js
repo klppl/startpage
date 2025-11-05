@@ -26,9 +26,18 @@ const setTheme = options => {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    setValueFromLocalStorage('color-background');
-    setValueFromLocalStorage('color-text-pri');
-    setValueFromLocalStorage('color-text-acc');
+    // Check if any theme is stored, if not set blackboard as default
+    if (!localStorage.getItem('color-background')) {
+        setTheme({
+            'color-background': '#1a1a1a',
+            'color-text-pri': '#FFFDEA',
+            'color-text-acc': '#5c5c5c'
+        });
+    } else {
+        setValueFromLocalStorage('color-background');
+        setValueFromLocalStorage('color-text-pri');
+        setValueFromLocalStorage('color-text-acc');
+    }
 });
 
 const dataThemeButtons = document.querySelectorAll('[data-theme]');

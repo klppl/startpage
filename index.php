@@ -4,7 +4,7 @@ require_once 'data.php';
 <!DOCTYPE html>
 <html>
 <head>
-    <title>SUI</title>
+    <title>STARTPAGE</title>
     <meta charset="utf-8">
     <meta http-equiv="Default-Style" content="">
     <meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport" />

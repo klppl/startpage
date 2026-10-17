@@ -1,5 +1,7 @@
 # Startpage
 
+[![License: Lagom](https://img.shields.io/badge/license-lagom-9E2B25)](https://klppl.github.io/lagom-license/)
+
 A clean, customizable browser startpage with theme support, application shortcuts, and bookmarks.
 
 ![Screenshot](screenshot.png)
